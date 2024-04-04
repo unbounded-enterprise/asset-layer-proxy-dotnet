@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>csharp_proxy_test</RootNamespace>
+    <UserSecretsId>faf1b38a-2aed-4bfb-894a-1a838e5980c7</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AssetLayerSDK" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
